@@ -1,0 +1,41 @@
+{
+  "name": "mater-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "run-scripts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^1.4.1",
+    "@material-ui/icons": "^2.0.0",
+    "animate.css": "^3.6.1",
+    "classnames": "^2.2.6",
+    "custom-react-script": "^1.0.29",
+    "deepmerge": "^2.1.1",
+    "jss-vendor-prefixer": "^8.0.1",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-datetime": "^2.15.0",
+    "react-dom": "^16.4.1",
+    "react-facebook-pixel": "^0.1.1",
+    "react-ga": "^2.5.3",
+    "react-github-button": "^0.1.11",
+    "react-google-maps": "^9.4.5",
+    "react-image-gallery": "^0.8.9",
+    "react-nouislider": "^2.0.1",
+    "react-popper": "^1.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-slick": "^0.23.1",
+    "react-swipeable-views": "^0.12.15",
+    "react-syntax-highlighter": "^8.0.1",
+    "react-tagsinput": "^3.19.0",
+    "warning": "^4.0.1"
+  }
+}

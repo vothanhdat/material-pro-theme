@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "module": "commonjs",
+        "target": "es2017",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "strictNullChecks": true,
+        "noUnusedLocals": true,
+        "baseUrl": ".",
+        "paths": {
+            "components/*": [ "src/components/*" ],
+            "views/*": [ "src/views/*" ],
+            "routes/*": [ "src/routes/*" ],
+            "assets/*": [ "src/assets/*" ],
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
