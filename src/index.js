@@ -7,7 +7,7 @@ import ReactPixel from "react-facebook-pixel";
 
 import indexRoutes from "./routes/index.jsx";
 
-// import "assets/scss/material-kit-pro-react.css";
+import "assets/scss/material-kit-pro-react.css";
 
 var hist = createHashHistory();
 
