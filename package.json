@@ -19,7 +19,7 @@
     "deepmerge": "^2.1.1",
     "jss-vendor-prefixer": "^8.0.1",
     "moment": "^2.22.2",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-animate-on-scroll": "^2.1.5",
